@@ -2,7 +2,7 @@
 
 <h2>Re-Imagine Agriculture with indepth data analysis.</h2>
 
-Farmers still grow their plants, seeds, and crops today without the aid of technology or the right understanding of the soil. They only raise the crops in accordance with their needs. When the crops don't develop properly, they employ toxic liquids, medications, and sanitizers. Even the health of the people is being affected, which is an issue for society. As a result, we did some research and found one solution for this and that’s Kissan. Kissan was created with the goal of using the extraordinary amount of data currently accessible to discover the best sustainable farming method in the future.
+Farmers still grow their plants, seeds, and crops today without the aid of technology or the right understanding of the soil. They only raise the crops in accordance with their needs. When the crops don't develop properly, they employ toxic liquids, medications, and sanitizers. Even the health of the people is being affected, which is an issue for society. As a result, we did some research and found one solution for this and that’s Kissan. Kissan was created with the goal of using the extraordinary amount of data currently accessible to discover the best sustainable farming method for the future.
 
 <h3>What it does?</h3>
 
